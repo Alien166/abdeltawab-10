@@ -39,13 +39,6 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <code><a href="https://www.kaggle.com/abdeltawabwagieh" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahdseddik" height="30" width="40" /></a></code>
   </details>
 
-### ⚡ GitHub Stats:
-
-<div align="center">
-<a href="https://github.com/abdeltawab10">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=abdeltawab10&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
-</a>
-</div>
 
 ### ☄️ Github Streaks:
 <div align="center">
