@@ -81,6 +81,10 @@
 <p align="left">I am always open to collaboration and discussions on DevOps practices. Feel free to explore my repositories, and connect with me on social media!</p>
 
 <div align="left">
+   <a href="https://drive.google.com/file/d/12P4749Cwz0Ur9Xw0N2HdrBry4NW57Qar/view?usp=sharing" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file/file-original.svg" width="40" height="40" alt="Resume" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/abdeltawab-wagieh-825958226/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
