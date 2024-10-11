@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hello there! I'm Abdeltawab, I'am passionate DevOps enthusiast <br>I bring with me valuable experience as an ex-intern at Samsung and Orange.</p>
+<p align="left">Hello there! I'm Abdeltawab, I'am passionate DevOps enthusiast <br>I bring with me valuable experience as an ex-intern at Samsung Orange , Schneider Electric and Nokia </p>
 
 ###
 
