@@ -10,88 +10,85 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </p>
 
-<h1 align="left">👋 Hello there! Welcome to my GitHub profile!</h1>
+<h1 align="left">👋 Welcome to My GitHub Profile!</h1>
 
-<p align="left">I'm Abdeltawab, a passionate DevOps enthusiast with valuable experience from internships at Samsung, Orange, Schneider Electric, and Nokia. I thrive on the challenges of modern software delivery and infrastructure automation.</p>
+<p align="left">I'm Abdeltawab, a dedicated DevOps Engineer passionate about optimizing software delivery and enhancing operational efficiency. My journey in technology has been enriched by valuable internships at esteemed organizations like Samsung, Orange, Schneider Electric, and Nokia, where I've gained practical experience in modern DevOps practices.</p>
 
 ###
 
 <h2 align="left">About Me</h2>
 
-<p align="left">📚 I’m currently diving deep into DevOps methodologies, honing my skills in automation, CI/CD pipelines, and cloud technologies. <br><br>🎯 **Goals**: I aim to become a proficient DevOps engineer, skilled in architecting scalable and resilient infrastructures that enhance software delivery. <br><br>🎲 **Fun Fact**: In my spare time, I love experimenting with new recipes and exploring different cuisines from around the world!</p>
+<p align="left">
+  📚 Currently, I am deepening my knowledge of DevOps methodologies, focusing on automation, CI/CD pipelines, and cloud technologies. <br><br>
+  🎯 **Professional Aspirations**: I aspire to become an expert DevOps Engineer, specializing in architecting scalable, resilient infrastructures that facilitate seamless software delivery and foster innovation. <br><br>
+  🎲 **Personal Interests**: When I'm not immersed in technology, I enjoy experimenting with culinary arts, exploring diverse cuisines, and discovering new recipes from around the globe!
+</p>
 
 ###
 
-<h2 align="left">My DevOps Focus</h2>
-<p align="left">🚀 I focus on automation, continuous integration/continuous deployment (CI/CD), and infrastructure as code (IaC) to streamline development processes and enhance efficiency in delivering robust software solutions. <br><br>💻 Whether it's configuring pipelines, optimizing deployments, or fine-tuning infrastructure, I'm always eager to delve into the intricacies of DevOps practices.</p>
+<h2 align="left">My DevOps Expertise</h2>
+
+<p align="left">
+  🚀 I focus on automation, continuous integration/continuous deployment (CI/CD), and infrastructure as code (IaC) to streamline development processes and enhance the efficiency of robust software solutions. <br><br>
+  💻 My hands-on experience includes configuring pipelines, optimizing deployments, and fine-tuning infrastructure, always with a commitment to best practices and continuous improvement in DevOps methodologies.
+</p>
 
 ###
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">🔧 Technical Skills & Tools</h2>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="ArgoCD" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="Fedora" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
 </div>
 
 ###
 
-<p align="left">Feel free to explore my repositories and connect with me!</p>
-
-###
+<h2 align="left">Let’s Connect!</h2>
+<p align="left">I am always open to collaboration and discussions on DevOps practices. Feel free to explore my repositories, and connect with me on social media!</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdeltawab-wagieh-825958226/" target="_blank">
-    <img src="https://www.linkedin.com/in/abdeltawab-wagieh-825958226//profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://www.linkedin.com/in/abdeltawab-wagieh-825958226//profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  <a href="https://twitter.com/tobaops" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
 </div>
-</div>
-
-
-###
-
-<div align="left">
-  <img src="https://www.linkedin.com/in/abdeltawab-wagieh-825958226//profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 
