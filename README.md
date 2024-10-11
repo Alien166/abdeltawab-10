@@ -82,7 +82,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdeltawab-wagieh-825958226/" target="_blank">
-    <img src="https://www.linkedin.com/in/abdeltawab-wagieh-825958226//profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/tobaops" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
