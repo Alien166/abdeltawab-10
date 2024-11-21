@@ -81,7 +81,7 @@
 <p align="left">I am always open to collaboration and discussions on DevOps practices. Feel free to explore my repositories, and connect with me on social media!</p>
 
 <div align="left">
-   <a href="https://drive.google.com/file/d/1yvs8Ce7k_ZJuCD93oiezjr3-MAYob-FQ/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1H5D99oNVcaOqjlLrKkwa_QJCf-sEiig-/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" width="40" height="40" alt="Resume" />
   </a>
   </a>
